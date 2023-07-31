@@ -14,6 +14,8 @@ Topic and discussions:
 - Melon.js discussion: https://github.com/melonjs/melonJS/discussions/1192
 - Box2D-WASM discussion: https://github.com/Birch-san/box2d-wasm/discussions/67
 
+![falling-circle-ray-casting-box2dwasm-melonjs-js](https://github.com/8Observer8/falling-circle-ray-casting-box2dwasm-melonjs-js/assets/3908473/0304a49f-3dcf-4100-a863-99dc12c0e72a)
+
 Instruction for building and running the project in debug and release using Rollup:
 
 - Install these packages globally with the command:
